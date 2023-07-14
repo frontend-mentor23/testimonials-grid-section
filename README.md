@@ -14,7 +14,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,16 +23,14 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-<div align="center">
 ### Screenshot
-</div>
 
 ![](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-flexbox-and-grid-NglhQKBkkD)
+- Live Site URL: [Website](https://vovka8101.github.io/testimonials-grid-section/)
 
 ### Built with
 
@@ -56,5 +53,5 @@ Flexbox and Grid technics are definitely those things I will use in future devel
 
 ## Author
 
-- Website - [vovka8101](https://github.com/vovka8101)
+- GitHub - [vovka8101](https://github.com/vovka8101)
 - Frontend Mentor - [@vovka8101](https://www.frontendmentor.io/profile/vovka8101)
