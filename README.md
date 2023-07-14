@@ -24,13 +24,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
-
 <div align="center">
+### Screenshot
+</div>
 
 ![](./design/desktop-design.jpg)
-
-</div>
 
 ### Links
 
